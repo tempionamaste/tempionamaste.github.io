@@ -1,0 +1,9 @@
+# Site settings
+title: Namastè
+email: info@tempionamaste.it
+description: Namastè promuove le attività volte al benessere psicofisico dell'uomo. La nostra sede si trova in Romagna a Villa Verucchio - Via Cupa s/n
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tempionamaste.it/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
